@@ -56,4 +56,4 @@ function decode(expr) {
 
 module.exports = {
     decode
-}npm
+}
